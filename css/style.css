@@ -4,13 +4,8 @@
   font-family: 'Volkhov', Georgia, serif;
 }
 
-li {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-}
+li { list-style: none; }
+a { text-decoration: none; }
 
 img {
   width: 100%;
