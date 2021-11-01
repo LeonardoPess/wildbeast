@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshot_1.png">
+  <img src="Screenshot_1.png">
 </p>
 
 <p align="center">Uma landing page para aprender sobre o grid e colocar a mão na massa, aprendendo a como e quando usar o grid e suas propriedades.</p>
